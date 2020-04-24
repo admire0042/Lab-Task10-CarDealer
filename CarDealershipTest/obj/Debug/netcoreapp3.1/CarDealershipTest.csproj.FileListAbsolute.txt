@@ -1,0 +1,13 @@
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task10\CarDealershipTest\obj\Debug\netcoreapp3.1\CarDealershipTest.csprojAssemblyReference.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task10\CarDealershipTest\obj\Debug\netcoreapp3.1\CarDealershipTest.csproj.CoreCompileInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task10\CarDealershipTest\obj\Debug\netcoreapp3.1\CarDealershipTest.AssemblyInfoInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task10\CarDealershipTest\obj\Debug\netcoreapp3.1\CarDealershipTest.AssemblyInfo.cs
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task10\CarDealershipTest\bin\Debug\netcoreapp3.1\CarDealershipTest.exe
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task10\CarDealershipTest\bin\Debug\netcoreapp3.1\CarDealershipTest.deps.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task10\CarDealershipTest\bin\Debug\netcoreapp3.1\CarDealershipTest.runtimeconfig.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task10\CarDealershipTest\bin\Debug\netcoreapp3.1\CarDealershipTest.runtimeconfig.dev.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task10\CarDealershipTest\bin\Debug\netcoreapp3.1\CarDealershipTest.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task10\CarDealershipTest\bin\Debug\netcoreapp3.1\CarDealershipTest.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task10\CarDealershipTest\obj\Debug\netcoreapp3.1\CarDealershipTest.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task10\CarDealershipTest\obj\Debug\netcoreapp3.1\CarDealershipTest.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task10\CarDealershipTest\obj\Debug\netcoreapp3.1\CarDealershipTest.genruntimeconfig.cache
